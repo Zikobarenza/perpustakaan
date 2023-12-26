@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "judul": "Pencarian Canggih",
+    "deskripsi": "Temukan buku yang tepat dengan mudah dan efisien",
+    "gambar": "/assets/artikel/artikel-1.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Koleksi Eksklusif",
+    "deskripsi": "Rak buku kami dipenuhi dengan judul terbaru dan populer",
+    "gambar": "/assets/artikel/artikel-2.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Studi Daring",
+    "deskripsi": "Revolusi belajar dengan akses terhadap bahan digital",
+    "gambar": "/assets/artikel/artikel-3.jpg"
+  },
+  {
+    "id": 4,
+    "judul": "Komunitas Budaya",
+    "deskripsi": "Gabung dalam diskusi dan kegiatan literasi bersama",
+    "gambar": "/assets/artikel/artikel-4.jpg"
+  },
+  {
+    "id": 5,
+    "judul": "Mendukung Edukasi",
+    "deskripsi": "Perpustakaan yang mendukung pengembangan pendidikan",
+    "gambar": "/assets/artikel/artikel-4.jpg"
+  },
+  {
+    "id": 6,
+    "judul": "Layanan Profesional",
+    "deskripsi": "Tim perpustakaan bersedia membantu sewaktu-waktu",
+    "gambar": "/assets/artikel/artikel-5.jpg"
+  }
+]

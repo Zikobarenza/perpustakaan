@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    },
+    {
+      "id": 2,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    },
+    {
+      "id": 3,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    },
+    {
+      "id": 4,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    },
+    {
+      "id": 5,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    },
+    {
+      "id": 6,
+      "judul": "Judul Novel",
+      "gambar": "/assets/artikel/Buku-1.png"
+    }
+  ]

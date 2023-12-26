@@ -1,0 +1,44 @@
+[
+    {
+		"id": 1,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+    },
+    {
+		"id": 2,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  },
+	  {
+		"id": 3,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  },
+	  {
+		"id": 4,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  },
+	  {
+		"id": 5,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  },
+	  {
+		"id": 6,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  },
+	  {
+		"id": 7,
+		"judul": "Seri Wilani",
+		"deskripsi": "HIPSTER",
+		"gambar": "/assets/program/wila.png"
+	  }
+  ]
